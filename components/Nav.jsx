@@ -37,7 +37,7 @@ const Nav = () => {
               </button>
 
               <Link href="/profile">
-                <Image src="/assets/images/logo.svg" alt="profile" width={37} height={37} className="rounded-full"/>
+                <Image src="/assets/images/user.png" alt="profile" width={37} height={37} className="rounded-full"/>
               </Link>
           </div>
         ):(
